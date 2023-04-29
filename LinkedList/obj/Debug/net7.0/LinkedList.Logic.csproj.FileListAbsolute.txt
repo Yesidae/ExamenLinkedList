@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\bin\Debug\net7.0\LinkedList.Logic.deps.json
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\bin\Debug\net7.0\LinkedList.Logic.dll
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\bin\Debug\net7.0\LinkedList.Logic.pdb
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\obj\Debug\net7.0\LinkedList.Logic.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\obj\Debug\net7.0\LinkedList.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\obj\Debug\net7.0\LinkedList.Logic.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\obj\Debug\net7.0\LinkedList.Logic.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\obj\Debug\net7.0\LinkedList.Logic.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\obj\Debug\net7.0\LinkedList.Logic.dll
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\obj\Debug\net7.0\refint\LinkedList.Logic.dll
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\obj\Debug\net7.0\LinkedList.Logic.pdb
+C:\Users\USUARIO\Documents\Proyectos\ExamLinkedList\ExamLinkedList\LinkedList\obj\Debug\net7.0\ref\LinkedList.Logic.dll

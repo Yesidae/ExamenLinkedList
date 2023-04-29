@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LinkedList.Logic/1.0.0": {
+        "runtime": {
+          "LinkedList.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedList.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
